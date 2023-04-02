@@ -8,7 +8,7 @@ We used JavaScript, jQuery, HTML and CSS.
 * Arie Katz - 209406164
 
 ## Link to game website
-You can [click here](https://web-development-environments-2022.github.io/assignment2-206259848_209406164/) to play our game.
+You can [click here](https://edenchai.github.io/Pacman-Game/) to play our game.
 
 ## Game Screens:
 * **Home** - a page that contains a logo, Legister and Login buttons.
